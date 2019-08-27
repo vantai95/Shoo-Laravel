@@ -1,0 +1,15 @@
+{
+  "name": "VIETTEL BOOKING SYSTEM APIs DOCUMENT",
+  "version": "1.0.0",
+  "title": "Viettel booking APIs",
+  "description": "FLIGHT BOOKING | HOTEL BOOKING | HOSPITAL BOOKING",
+  "url" : "http://sandbox.booking.imt-soft.com/cms/",
+  "template": {
+    "withCompare": true,
+    "withGenerator": true
+  },
+  "header": {
+    "title": "API Request Header",
+    "filename": "readme.md"
+  }
+}

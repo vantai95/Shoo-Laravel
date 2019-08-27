@@ -1,0 +1,10 @@
+@font-face {
+	font-family: 'arrowlightregular';
+	src: url('../fonts/arrow-webfont.eot');
+	src: url('../fonts/arrow-webfont.eot?#iefix') format('embedded-opentype'),
+	url('../fonts/arrow-webfont.svg#arrowlightregular') format('svg'),
+	url('../fonts/arrow-webfont.woff') format('woff'),
+	url('../fonts/arrow-webfont.ttf') format('truetype');
+	font-weight:normal;
+	font-style:normal;
+}

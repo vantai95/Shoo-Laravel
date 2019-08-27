@@ -1,0 +1,10 @@
+@font-face {
+	font-family: 'supergroteska_rgregular';
+	src: url('../fonts/supergroteska-rg-webfont.eot');
+	src: url('../fonts/supergroteska-rg-webfont.eot?#iefix') format('embedded-opentype'),
+	url('../fonts/supergroteska-rg-webfont.svg#supergroteska_rgregular') format('svg'),
+	url('../fonts/supergroteska-rg-webfont.woff') format('woff'),
+	url('../fonts/supergroteska-rg-webfont.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}

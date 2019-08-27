@@ -1,0 +1,10 @@
+@font-face {
+	font-family: 'supergroteska_medregular';
+	src: url('../fonts/supergroteska-med-webfont.eot');
+	src: url('../fonts/supergroteska-med-webfont.eot?#iefix') format('embedded-opentype'),
+	url('../fonts/supergroteska-med-webfont.svg#supergroteska_medregular') format('svg'),
+	url('../fonts/supergroteska-med-webfont.woff') format('woff'),
+	url('../fonts/supergroteska-med-webfont.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
